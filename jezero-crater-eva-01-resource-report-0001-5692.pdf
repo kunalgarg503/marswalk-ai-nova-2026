@@ -1,0 +1,492 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 6674
+>>
+stream
+0.200025 w
+0 G
+0.05 0.06 0.09 rg
+0. 841.8899999999999864 595.2799999999999727 -74. re
+f
+BT
+/F2 15 Tf
+17.25 TL
+1. g
+40. 813.8899999999999864 Td
+(MARSWALK AI — RESOURCE & SURVIVAL PLANNING REPORT) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.706 0.753 0.824 rg
+40. 795.8899999999999864 Td
+(Snapshot ID: MSW-20261114085120-0001-5692  |  Generated UTC: 2026-11-14T08:51:20.530Z) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.706 0.753 0.824 rg
+40. 781.8899999999999864 Td
+(MARSWALK AI — NASA Space Apps Challenge 2026 | Planning Estimate \(Not Safety Certification\)) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.91 0.365 0.165 rg
+40. 747.8899999999999864 Td
+(1. MISSION & ROUTE SYNCHRONISATION SUMMARY) Tj
+ET
+0.82 0.84 0.87 RG
+40. 742.8899999999999864 m
+555.2799999999999727 742.8899999999999864 l
+S
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 729.8899999999999864 Td
+(Mission Name: Jezero Crater EVA-01 | Objective: GEOLOGICAL SAMPLING) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 715.4900000000000091 Td
+(Martian Region: Jezero Crater \(18.3800 deg, 77.5800 deg | -2560 m MOLA\)) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 701.0899999999999181 Td
+(Starting Location: Perseverance Landing Area \(Octavia E. Butler\) -> Destination: Jezero Rim / Neretva Vallis \(Bright Angel\)) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 686.6899999999999409 Td
+(Route Preference & Profile: BALANCED -> Balanced Traverse) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 672.2899999999999636 Td
+(Route Coordinates: 14 grid nodes: Start \(18.4471°, 77.4521°\) -> Mid \(18.4667°, 77.3797°\) -> End \(18.5157°, 77.3177°\)) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 657.8899999999999864 Td
+(Route Distance: 9.73 km \(+230 m / -203 m\) | Calculator Mode: Synced with Route) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 643.4900000000000091 Td
+(Terrain Difficulty: 33.6/100 \(MODERATE\) | Peak Slope 7.3 deg) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 629.0899999999999181 Td
+(Safety & Hazard Risk: Safety Score 68/100 | Hazard Risk 32/100 \(MODERATE\) | Crit/High Sections 0/0) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.91 0.365 0.165 rg
+40. 608.6899999999999409 Td
+(2. CREW & MISSION DURATION BREAKDOWN) Tj
+ET
+0.82 0.84 0.87 RG
+40. 603.6899999999999409 m
+555.2799999999999727 603.6899999999999409 l
+S
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 590.6899999999999409 Td
+(Crew Size: 2 astronaut\(s\) | Walking Speed: 2.5 km/h | Duration Mode: activity-derived) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 576.2899999999999636 Td
+(Base Walking Time: 3.89 hr \(9.73 km / 2.5 km/h\)) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 561.8899999999999864 Td
+(Terrain & Slope Delay: +0.66 hr \(Slope x1.092, Terrain x1.118\) -> Terrain-Adjusted Walk: 4.55 hr) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 547.4900000000000091 Td
+(Rest Time: 1.50 hr | Scientific Activity Time: 2.00 hr | Schedule Buffer: 0.50 hr) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 533.0900000000000318 Td
+(Nominal Duration: 8.55 hr | Emergency Contingency \(+0%\): +0.00 hr) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 518.6900000000000546 Td
+(Total Mission Duration: 8.55 hr \(0.35 Martian sols @ 24.623 hr/sol\)) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 504.2900000000000773 Td
+(Timeline Explanation: Nominal duration \(8.55 hr\) = Terrain-Adjusted Walk \(4.55 hr = 3.89 hr base + 0.66 hr terrain factor) Tj
+T* (×1.169\) + Rest \(1.50 hr\) + Science \(2.00 hr\) + Schedule Buffer \(0.50 hr\).) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.91 0.365 0.165 rg
+40. 471.4900000000000659 Td
+(3. TRANSPARENT RESOURCE CALCULATIONS \(O2, ENERGY, WATER\)) Tj
+ET
+0.82 0.84 0.87 RG
+40. 466.4900000000000659 m
+555.2799999999999727 466.4900000000000659 l
+S
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 453.4900000000000659 Td
+(OXYGEN: Base = 2 crew x 8.55 hr x 0.035 kg/p/hr = 0.60 kg | +25% Reserve = 0.15 kg | Total = 0.75 kg | Loaded = 3.50 kg) Tj
+T* ([SUFFICIENT, +2.75 kg]) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 426.6900000000000546 Td
+(ENERGY: Load = \(2 x 0.45 kW suit + 0.85 kW gear\) = 1.75 kW | Base = 1.75 x 8.55 hr = 14.96 kWh | +25% Reserve = 3.74) Tj
+T* (kWh | Total = 18.70 kWh | Loaded = 45.00 kWh [SUFFICIENT, +26.30 kWh]) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 399.8900000000000432 Td
+(WATER: Base = 2 crew x \(8.55 / 24.623\) sols x 3.5 L/sol = 2.43 L | +25% Reserve = 0.61 L | Total = 3.04 L | Loaded = 18.00 L) Tj
+T* ([SUFFICIENT, +14.96 L]) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.91 0.365 0.165 rg
+40. 367.0900000000000318 Td
+(4. EMERGENCY DURATION SCENARIOS \(VS NOMINAL BASELINE\)) Tj
+ET
+0.82 0.84 0.87 RG
+40. 362.0900000000000318 m
+555.2799999999999727 362.0900000000000318 l
+S
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 349.0900000000000318 Td
+(+10% \(9.41 hr / 0.38 sol\): O2 0.83 kg \(+0.08\) | Energy 20.59 kWh \(+1.89\) | Water 3.35 L \(+0.31\) | Covered: YES) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 334.6900000000000546 Td
+(+20% \(10.26 hr / 0.42 sol\): O2 0.90 kg \(+0.15\) | Energy 22.44 kWh \(+3.74\) | Water 3.65 L \(+0.61\) | Covered: YES) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 320.2900000000000773 Td
+(+30% \(11.12 hr / 0.45 sol\): O2 0.98 kg \(+0.23\) | Energy 24.33 kWh \(+5.63\) | Water 3.95 L \(+0.91\) | Covered: YES) Tj
+ET
+BT
+/F2 10.5 Tf
+12.0749999999999993 TL
+0.91 0.365 0.165 rg
+40. 299.8900000000001 Td
+(5. MISSION READINESS \(PLANNING INDICATOR ONLY\)) Tj
+ET
+0.82 0.84 0.87 RG
+40. 294.8900000000001 m
+555.2799999999999727 294.8900000000001 l
+S
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 281.8900000000001 Td
+(Overall Resource Status: SUFFICIENT) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 267.4900000000001228 Td
+(Mission Readiness Score: 83/100 \(NOMINAL PLANNING READINESS\)) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 253.0900000000001455 Td
+(Separated Components: Resource Sufficiency 40/40 | Route Safety 14/20 | Terrain Difficulty 10/15 | Emergency Reserves 9/15) Tj
+T* (| Mission Duration 10/10) Tj
+ET
+BT
+/F1 9.2 Tf
+10.5799999999999983 TL
+0.118 0.137 0.176 rg
+40. 226.290000000000191 Td
+(Planning readiness indicator only — NOT an astronaut life-support certification or official NASA flight clearance.) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261114085120-00'00')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000006878 00000 n 
+0000008695 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000006935 00000 n 
+0000007060 00000 n 
+0000007190 00000 n 
+0000007323 00000 n 
+0000007460 00000 n 
+0000007583 00000 n 
+0000007712 00000 n 
+0000007844 00000 n 
+0000007980 00000 n 
+0000008108 00000 n 
+0000008235 00000 n 
+0000008364 00000 n 
+0000008497 00000 n 
+0000008599 00000 n 
+0000008943 00000 n 
+0000009029 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <D352C329F7B3FC31186934DD85F7D3AD> <D352C329F7B3FC31186934DD85F7D3AD> ]
+>>
+startxref
+9133
+%%EOF
